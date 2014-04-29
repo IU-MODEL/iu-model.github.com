@@ -1,10 +1,10 @@
 ---
 layout: page
 title: offical blogs
-tagline: 这，是一个寂寞的世界……
+tagline: fly your dream
 ---
 {% include JB/setup %}
-# 人，只是一根会思考的芦苇……
+# fly your dreams here
 ---
 
 
@@ -22,7 +22,7 @@ tagline: 这，是一个寂寞的世界……
 	</div>
 		{{ post.content  | | split:'<!--break-->' | first }}
 	<div class = "read_more">
-		<a href="{{ BASE_PATH }}{{ post.url }}">&hellip;查看全文</a>
+		<a href="{{ BASE_PATH }}{{ post.url }}">&hellip;MORE DETAILS</a>
 	</div>
 	
 </div>
