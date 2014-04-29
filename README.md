@@ -1,4 +1,4 @@
-blog.iu-model.com
-=================
+#jekylll blog
 
-Offical blogs of iu-model
+###_site里面修改相关的css路劲。
+###_config.yml修改markdown。
