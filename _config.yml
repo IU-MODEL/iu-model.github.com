@@ -9,12 +9,12 @@ safe: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 寂寞先生
+title : IU-MODEL offical blogs
 tagline: Site Tagline
 author :
-  name : 陈佳伟
-  email : blah@email.test
-  github : username
+  name : oscar_huang
+  email : oscar_huang@iu-model.com
+  github : IU-MODEL
   twitter : username
   feedburner : feedname
 
