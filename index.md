@@ -1,6 +1,6 @@
 ---
 layout: page
-title: offical blogs
+title: iu-modle's offical blogs|share rc model information,share rc world ! 
 tagline: fly your dream
 ---
 {% include JB/setup %}
@@ -22,7 +22,7 @@ tagline: fly your dream
 	</div>
 		{{ post.content  | | split:'<!--break-->' | first }}
 	<div class = "read_more">
-		<a href="{{ BASE_PATH }}{{ post.url }}">&hellip;MORE DETAILS</a>
+		<a href="{{ BASE_PATH }}{{ post.url }}">&hellip;More</a>
 	</div>
 	
 </div>
