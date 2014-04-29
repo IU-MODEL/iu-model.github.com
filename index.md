@@ -4,7 +4,7 @@ title: iu-modle's offical blogs|share rc model information,share rc world !
 tagline: fly your dream
 ---
 {% include JB/setup %}
-# fly your dreams here
+# Fly your dream, overlooks the world.
 ---
 
 
