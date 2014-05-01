@@ -3,10 +3,10 @@ layout: post
 title: "fly basics"
 description: ""
 category: fly tutorial
-tags: [install jekyll]
+tags: [tutorial flying]
 ---
 {% include JB/setup %}
-# fly basics tips
+# The Basics of Flying A Model Plane
 ---
 
 ### Flying Basics
