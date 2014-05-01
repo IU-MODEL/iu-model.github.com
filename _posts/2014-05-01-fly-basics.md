@@ -11,7 +11,7 @@ tags: [fly basics]
 
 ### Flying Basics
 
-* After reviewing the "Flying Basics" below, you should have a good idea of the design characteristics you will want in your first plane. Tower Hobbies offers many trainer models from numerous reputable manufacturers. The Tower Hobbies TOWER Trainer 40 MkII RTF actually guarantees that you will learn to fly successfully. After practicing the basics of flying and gaining some confidence "behind the sticks," you will want to explore the many other exciting styles of R/C aircraft.
+* After reviewing the "Flying Basics" below, you should have a good idea of the design characteristics you will want in your first plane. iu-model offers many trainer models from numerous reputable manufacturers. After practicing the basics of flying and gaining some confidence "behind the sticks," you will want to explore the many other exciting styles of R/C aircraft.
 
 ### Aerodynamics:
 
