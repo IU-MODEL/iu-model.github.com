@@ -3,7 +3,7 @@ layout: post
 title: "fly basics"
 description: ""
 category: fly tutorial
-tags: [tutorial flying]
+tags: [fly basics]
 ---
 {% include JB/setup %}
 # The Basics of Flying A Model Plane
