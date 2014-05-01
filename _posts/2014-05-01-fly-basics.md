@@ -8,6 +8,9 @@ tags: [fly basics]
 {% include JB/setup %}
 # The Basics of Flying A Model Plane
 ---
+### Parts of Aeroplane
+
+![Parts of Areoplane](/images/blog/partplane.png)
 
 ### Flying Basics
 
