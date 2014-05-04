@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "fly basics"
-description: ""
+title: "iu model Fly Basics"
+description: "If you are a beginner you can get help from iu-model .This is a manual for beginner by iu model.It shows flying basics and how to buy.
+It includes basics of areodynamics,wing location,airfoil,wing area,dihedral,wingthickness,etc."
 category: fly tutorial
 tags: [fly basics]
 ---
@@ -46,8 +47,4 @@ who want to perform rolls, loops and other aerobatic maneuvers.
 * Tricycle gear includes a nose gear and two wing (main) gears, making takeoffs and landings easier—ideal for beginners.
 
 
-
-
- 
-
-
+Maybe you can find your first rc model here .Just feel free to [Enter](http://www.iu-model.com)
