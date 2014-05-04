@@ -1,6 +1,6 @@
 ---
 layout: page
-title: iu-modle's offical blogs|share rc model information,share rc world ! 
+title: IU MODEL RC World
 tagline: fly your dream
 ---
 {% include JB/setup %}
