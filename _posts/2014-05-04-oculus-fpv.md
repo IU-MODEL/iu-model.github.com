@@ -57,3 +57,5 @@ Kildene til dette finnes i rapporten.
 license
 -------
 The code is released with the Apache 2 license where possible, and the needed license where the code is a derivative work.
+
+This pages is from [Matsemann/oculus-fpv](https://github.com/Matsemann/oculus-fpv)
