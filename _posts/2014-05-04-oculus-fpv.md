@@ -1,9 +1,9 @@
 ﻿---
 layout: post
-title: "Oculus FPV"
-description: "Oculus FPV ,great !."
-category: product news 
-tags: [news]
+title: "ocus fpv succeed"
+description: "If you are a beginner you can get help from iu-model .This is a manual for beginner by iu model.It shows flying basics   and how to buy.It includes basics of areodynamics,wing location,airfoil,wing area,dihedral,wingthickness,etc."
+ category: oculus fpv 
+tags: [fpv]
 ---
 {% include JB/setup %}
 # What it happend,When FPV meets oculus ?
