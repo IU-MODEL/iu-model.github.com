@@ -8,7 +8,6 @@ tags: [news]
 {% include JB/setup %}
 # What it happend,When FPV meets oculus ?
 ---
-
 ###Oculus FPV
 
 ![oculus fpv final results](http://i.imgur.com/osixqZ6.gif)
