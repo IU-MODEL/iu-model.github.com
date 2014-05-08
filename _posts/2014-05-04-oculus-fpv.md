@@ -5,7 +5,6 @@ description: "If you are a beginner you can get help from iu-model .This is a ma
 category: oculus fpv 
 tags: [fpv]
 ---
-
 {% include JB/setup %}
 # What it happend,When FPV meets oculus ?
 ---
