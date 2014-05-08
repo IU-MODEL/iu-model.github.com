@@ -2,7 +2,7 @@
 layout: post
 title: "Oculus FPV"
 description: "Oculus FPV ,great !."
-category: fly tutorial
+category: news
 tags: [news]
 ---
 {% include JB/setup %}
