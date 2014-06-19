@@ -12,9 +12,9 @@ safe: false
 title : RC Zone
 tagline: Site Tagline
 author :
-  name : oscar_huang
+  name : Oscar Huang
   email : oscar_huang@iu-model.com
-  github : IU-MODEL
+  github : username
   twitter : username
   feedburner : feedname
 
@@ -55,7 +55,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : 
+  BASE_PATH : /
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : iu-model
+      short_name : jekyllbootstrap
     livefyre :
       site_id : 123
     intensedebate :
@@ -101,7 +101,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-50637568-1'
     getclicky :
       site_id : 
     mixpanel :

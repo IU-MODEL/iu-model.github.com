@@ -8,8 +8,7 @@
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <a href="https://plus.google.com/105779700021101593841" rel="publisher">Google+</a>
+
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -20,24 +19,27 @@
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
     <!-- Le fav and touch icons -->
-    <!-- Update these with your own images -->
-    <link rel="shortcut icon" href="/images/favicon.ico">
-    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png">
-  
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
 
     <!-- atom & rss feed -->
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-
+    
+<!--    font-awesome-->
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+  
   </head>
 
   <body>
     <div class="navbar">
       <div class="navbar-inner">
        <div class="nav-narrow">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <a class="brand" href="{{ HOME_PATH }}"><span class="fa fa-mortar-board (alias)">{{ site.title }}</span></a>
           <ul class="nav">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
@@ -52,25 +54,12 @@
       <div class="content">
         {{ content }}
       </div>
-      <hr>
+      
       <footer class="card">
-      <p>&copy; {{ site.time | date: '%Y' }} Power by <a href="http://www.iu-model.com" target="_blank" title="IU MODEL" > IU Model</a>
-      <!--
-      <a href="http://github.com/iu-model" rel="nofollow" target='_blank' title='Fork us on GitHub'><img width="32" height="32" title="Fork us on GitHub " alt="GitHub" src="/images/github.png"></a>
-      -->
-      <a href="https://www.facebook.com/iumodel" rel="nofollow" target='_blank' title='Like us on Facebook'><img width="32" height="32" title=" Like us on Facebook " alt="Facebook" src="/images/fb.png"> </a>
-      
-      <a href="http://twitter.com/qledrun" rel="nofollow" target='_blank' title='Follow us on Twitter'><img width="32" height="32" title="Follow us on Twitter " alt="Tweeter" src="/images/twt.png"> </a>
-      
-      <a href="http://www.linkedin.com/company/infinate-undiscovey-model-co-ltd?trk=top_nav_home" rel="nofollow" target='_blank' title='Follow us on Linkedin'><img width="32" height="32" title="Our linkdein page " alt="Linkdein" src="/images/linkin.png"></a>
-      
-      <a href="https://plus.google.com/u/1/b/105779700021101593841/105779700021101593841/about/p/pub" rel="nofollow" target='_blank' title='Follow us on Google+'><img width="32" height="32" title="Our google page " alt="iu-model google+" src="/images/logo/go+.jpg"></a>
-
-      <a href="http://twitter.com/iu-model" rel="nofollow" target='_blank' title='Follow us on Reddit'><img width="32" height="32" title="Our reddit news " alt="iu-model reddit news" src="/images/logo/reddit.jpg"></a>
-
-      <a href="http://twitter.com/iu-model" rel="nofollow" target='_blank' title='Follow us on Reddit'><img width="32" height="32" title="Our reddit news " alt="iu-model reddit news" src="/images/logo/wp.png"></a>
-      
-      </p>
+        <p>&copy; 2011 {{ site.author.name }}
+          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+        </p>
       </footer>
 
     </div>

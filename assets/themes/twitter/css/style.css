@@ -1,8 +1,12 @@
 body{ background: url("img/body_bg.png") repeat;}
 
+.fa.fa-arrow-circle-right{
+    margin-right: 15px;
+}
+ 
 /*navbar bgcolor -- float*/
 .navbar .navbar-inner{ 
-  background-color: rgba(0,157,148,0.9);
+  background-color: #00a9a9;
   }
 
 .navbar .nav {  
@@ -13,30 +17,13 @@ body{ background: url("img/body_bg.png") repeat;}
 /*page container -- card style -- */
 .nav-narrow{  
   margin: 0 auto;
-  max-width: 800px;}
+  max-width: 900px;}
 
-.container-narrow {
-  margin: 100px auto;
-  max-width: 800px; 
-  }
 
-.date_label {
-  float: left;
- 
-  width:80px; 
-  height:48px; 
-
-  color: #fff;
-  text-align: right; 
-  background: url("img/date_label_bg.png")  left top no-repeat;
-}
-.day_month{ font-size: 1.3em;}
-.year{ font-size: 0.1em;}
 
 .card { 
-  max-width: 800px;
-  
-  background-color: #fff; 
+  max-width: 900px;
+  background: url("img/card_bg.jpg") rgba(255,255,255,0.6) repeat center top; 
   }
 
 .container-narrow > hr { 
@@ -87,7 +74,7 @@ body{ background: url("img/body_bg.png") repeat;}
 .tag_box a {
   padding: 3px 6px;
   margin: 2px;
-  background: rgb(0,157,140);
+  background: rgb(0,173,207);
   color: #fff;
   border-radius: 5px;
   text-decoration: none;
@@ -104,3 +91,15 @@ body{ background: url("img/body_bg.png") repeat;}
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+
+
+.hat_title{
+/*    margin: -20px -40px 20px;*/
+    padding: 10px;
+/*    background-color: rgb(229, 229, 229);*/
+    color: rgb(0,173,207);
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom: 1px solid #eee;
+}

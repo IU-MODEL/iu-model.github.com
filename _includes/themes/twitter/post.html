@@ -7,7 +7,6 @@
 <div class="row-fluid post-full">
   <div class="span12 ">
     <div class="content card">
-       <div class = "clearfix">
         <div class="date_label">
           <div class="day_month">
           {{ page.date | date:"%m/%d" }}
@@ -16,7 +15,6 @@
           {{ page.date | date:"%Y" }}
           </div>
         </div>
-      </div>
       {{ content }}
     </div>
 
@@ -36,23 +34,23 @@
     </ul>
   {% endunless %}  
 
-    <hr>
-    <div class="pagination card clearfix">
+    
+    <div class="pagination clearfix">
       <ul class = "pull-right">
       {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Pre Page</a></li>
+        <li class="prev"><a class="fa fa-arrow-circle-left" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}"> 前一篇</a></li>
       {% else %}
-        <li class="prev disabled"><a>&larr; Pre Page</a></li>
+        <li class="prev disabled" ><a class="fa fa-arrow-circle-left"> 前一篇</a></li>
       {% endif %}
-        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">ALL</a></li>
+        <li><a class="fa fa-th" href="{{ BASE_PATH }}{{ site.JB.archive_path }}"> 所有日志</a></li>
       {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next Page &rarr;</a></li>
+        <li class="next"><a  href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">后一篇 <span class="fa fa-arrow-circle-right">  </span></a></li>
       {% else %}
-        <li class="next disabled"><a>Next Page &rarr;</a>
+        <li class="next disabled"><a >后一篇 <span class="fa fa-arrow-circle-right">  </span></a>
       {% endif %}
       </ul>
     </div>
-    <hr>
+    
     {% include JB/comments %}
   </div>
 </div>
