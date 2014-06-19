@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RC Zone - a worldwide funny rc model zone
-tagline: fly your dream
+title: RC Zone - your rc model world
+tagline: the best choice for rc model zone
 ---
 {% include JB/setup %}
 # Fly Your Dream, Overlooks The World.
