@@ -1,10 +1,10 @@
 ---
 layout: page
-title: IU MODEL RC World
+title: RC Zone - a worldwide funny rc model zone
 tagline: fly your dream
 ---
 {% include JB/setup %}
-# Fly your dream, overlooks the world.
+# Fly Your Dream, Overlooks The World.
 ---
 
 
