@@ -13,7 +13,7 @@ tags: [fpv]
 
 ![Sunnysky Brushless Motors](/uploads/sunnysky/s1.jpg)
 
-![Brushless motors](http://http://www.iu-model.com/mod_product-prdlist-cap_id-231.html) became commercially available a few years ago. Since then they have revolutionized all sorts of industrial and mechanical industries. Now, they are also available in the RC toys today. For example, the sunnysky motors. They have made quite a splash in the world of RC toys, because of their higher efficiency and power, among other things, they are quickly becoming the industry standard for electric RC vehicles.
+[Brushless motors](http://http://www.iu-model.com/mod_product-prdlist-cap_id-231.html) became commercially available a few years ago. Since then they have revolutionized all sorts of industrial and mechanical industries. Now, they are also available in the RC toys today. For example, the sunnysky motors. They have made quite a splash in the world of RC toys, because of their higher efficiency and power, among other things, they are quickly becoming the industry standard for electric RC vehicles.
 
 
 
