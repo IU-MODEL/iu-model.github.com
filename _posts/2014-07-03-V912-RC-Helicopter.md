@@ -22,4 +22,6 @@ rotor head perform so well outdoor.
 After a few minutes, i loved everything about this bird. Compared with others, it is extremely stable, we noticed that right the way when we start hovering, for the price it’s unbeatable, and it’s so durable and well built, all sounds too good to be true. Bigger helicopter is better outdoor. We call this size the mini size, about the size of a computer keyboard, it has heavier blades and longer flybar to increase stability, that makes the [V912 RC helicopter](http://www.iu-model.com/mod_product-view-p_id-451.html) so stable and
 wind resistance. But what you should pay attention to is that it is a bit too large to do anything other than hover a bit in the house, if you hit something you could break it or the helicopter.
 
+![WLtoys V912 RC Helicopter](/uploads/wltoys/V912-1.jpg)
+
 In a word, the [V912 RC helicopter](http://www.iu-model.com/mod_product-view-p_id-451.html) is well built, very stabile and easy to fly. And it is also very strong, with more nock resistance than I expected.in a word, it is a funny toy.
